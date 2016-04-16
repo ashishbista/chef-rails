@@ -1,0 +1,16 @@
+{
+  "name": "data_bag_item_users_deploy",
+  "json_class": "Chef::DataBagItem",
+  "chef_type": "data_bag_item",
+  "data_bag": "users",
+  "raw_data": {
+    "id": "deploy",
+    "password": "$1$lqImvX3N$1Xhm9wSCwXKjHXMkFZxD20",
+    "ssh_keys": [
+      {
+        "ashish-laptop": "ssh-rsa ttt"
+      }
+    ],
+    "shell": "/bin/bash"
+  }
+}
